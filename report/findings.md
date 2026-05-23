@@ -84,4 +84,4 @@ Three independent statistical approaches agree: the new landing page shows no im
 All analysis performed in Python using `pandas`, `scipy`, `numpy`, and `matplotlib`.  
 Bayesian test used a Beta-Binomial conjugate model with a uniform Beta(1,1) prior and 50,000 posterior samples.
 
-Source code: [[github.com/yourname/ab-testing-analysis](https://github.com)](https://github.com/adityA-glitch-source/ab-testing-analysis)
+Source code: https://github.com/adityA-glitch-source/ab-testing-analysis
