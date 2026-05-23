@@ -1,6 +1,6 @@
 # A/B Test Report — Landing Page Experiment
 
-**Analyst:** [Your Name]  
+**Analyst:** Aditya Kumar 
 **Date:** 2026-05-23  
 **Dataset:** `ab_data.csv` — 294,478 user sessions, Jan 2017
 
