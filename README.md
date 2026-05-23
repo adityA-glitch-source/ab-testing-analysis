@@ -88,3 +88,20 @@ jupyter notebook
 - Time series analysis for novelty effects
 - Data visualisation with matplotlib/seaborn
 - Technical writing and business communication
+- ## Charts
+
+### Conversion rate by group
+![Conversion rate](outputs/conversion_bar.png)
+
+### 95% Confidence interval
+![Confidence interval](outputs/confidence_interval.png)
+
+### Bayesian posteriors
+![Bayesian posterior](outputs/bayesian_posterior.png)
+
+### Daily conversion trend
+![Daily conversion](outputs/daily_conversion.png)
+## Result
+
+> **The new landing page does not outperform the old one.**  
+> p = 0.19 · 95% CI [−0.39 pp, +0.08 pp] · tested on 290,000+ users
