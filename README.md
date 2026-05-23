@@ -51,7 +51,7 @@ ab_testing_project/
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/ab-testing-analysis
+git clone https://github.com/adityA-glitch-source/ab-testing-analysis
 cd ab-testing-analysis
 pip install -r requirements.txt
 ```
